@@ -1,8 +1,8 @@
 on_actions = {
     on_startup = {
         effect = { 
-            HUN = {
-                country_event = { id = hotwar_hun.1 days = 10 } 
+            SOV = {
+                country_event = { id = TNO_SOV_stalin_death.1 date = 1953.03.05 } 
             }
         }
     }
