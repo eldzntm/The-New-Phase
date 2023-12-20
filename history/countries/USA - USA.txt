@@ -47,7 +47,6 @@ add_to_faction = TUR
 add_to_faction = GRE
 add_to_faction = CAN
 add_to_faction = ITA
-add_to_faction = WGR
 add_to_faction = NOR
 add_to_faction = PHI
 add_to_faction = LUX
