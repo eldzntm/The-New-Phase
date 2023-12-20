@@ -2,7 +2,7 @@ on_actions = {
     on_startup = {
         effect = { 
             SOV = {
-                country_event = { id = TNO_SOV_stalin_death.1 date = 1953.03.05 } 
+                country_event = { id = TNP_SOV_stalin_death.1 date = 1953.03.05 } 
             }
         }
     }
