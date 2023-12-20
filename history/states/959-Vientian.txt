@@ -1,0 +1,27 @@
+state={
+	id=959
+	name="STATE_959"
+	history={
+		owner = FRA
+		add_core_of = VIN
+		victory_points = {
+			1465 10
+		}
+		victory_points = {
+			10496 4
+		}
+		buildings = {
+			infrastructure = 3
+			arms_factory = 2
+			industrial_complex = 2
+		}
+
+	}
+	provinces={
+		1464 1507 7356 10330 10356 10456 10496 
+	}
+	manpower=1398993
+	state_category = city
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

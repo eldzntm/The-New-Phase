@@ -1,0 +1,31 @@
+
+state={
+	id=43
+	name="STATE_43" # 부다페스트
+	manpower = 5750752
+	resources={
+		steel=4
+	}
+	
+	state_category = large_city
+
+	history={
+		owner = HUN
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 3
+			air_base = 2
+		}
+		victory_points = {
+			9660 30 
+		}
+		add_core_of = HUN
+	}
+
+	provinces={
+		9660
+	}
+
+	local_supplies=0.0 
+}

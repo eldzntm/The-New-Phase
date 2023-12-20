@@ -1,0 +1,43 @@
+state=
+{
+	id=525
+	name="STATE_525"
+	manpower = 9126000
+	
+	state_category = metropolis
+	history=
+	{
+		owner = KOR
+		buildings = {
+			infrastructure = 5
+			air_base = 10
+			anti_air_building = 1
+			industrial_complex = 6
+			arms_factory = 2
+			dockyard = 2
+			13267 = {
+				naval_base = 10
+			}
+		}
+
+		add_core_of = KOR
+		add_claim_by = PRK
+		victory_points = {
+			13268 50
+		}
+		victory_points = {
+			13267 10
+		}
+		victory_points = {
+			7125 5
+		}
+		victory_points = {
+			7221 5
+		}
+	}
+	provinces={
+		7125 7221 13266 13267 13268 13270
+	}
+
+	local_supplies=0.0 
+}

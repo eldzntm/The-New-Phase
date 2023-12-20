@@ -1,0 +1,31 @@
+
+state={
+	id=430
+	name="STATE_430"
+
+	history={
+		owner = PAK
+		add_core_of = PAK
+		victory_points = {
+			11929 20
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			11929 = {
+				naval_base = 2
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		9993 10416 11929 12423 13208 
+	}
+	manpower=31973300
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=0.000
+}
