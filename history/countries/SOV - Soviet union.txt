@@ -39,12 +39,12 @@ create_faction = WTO
 add_to_faction = SOV
 add_to_faction = POL
 add_to_faction = BUL
-add_to_faction = PRC
 add_to_faction = CUB
 add_to_faction = DDR
 add_to_faction = ETH
 add_to_faction = HUN
-add_to_faction = PRK
+add_to_faction = CZE
+add_to_faction = ROM
 
 ####
 #### NO STEP BACK

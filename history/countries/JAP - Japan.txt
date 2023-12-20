@@ -1,6 +1,6 @@
 ﻿capital = 282
 
-set_oob = "JAP_1936_nsb"
+# set_oob = "JAP_1936_nsb"
 
 set_research_slots = 5
 set_stability = 1.0
