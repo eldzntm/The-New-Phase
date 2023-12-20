@@ -1,11 +1,13 @@
 ﻿capital = 943 #South Korea - Seoul or Busan
 
-oob = "PRK_1936"
-
+#oob = "PRK_1936"
+set_research_slots = 3
 set_stability = 1.0
 set_war_support = 1.0
+
 add_command_power = 999
-set_research_slots = 3
+
+
 #기본 연구
 set_technology = {
 	early_fighter = 1
