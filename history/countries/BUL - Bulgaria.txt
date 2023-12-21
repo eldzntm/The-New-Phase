@@ -1,8 +1,37 @@
 ﻿capital = 48
 
-set_stability = 1.0
-set_war_support = 1.0
-add_command_power = 999
+set_research_slots = 4
+set_stability = 0.71
+set_war_support = 0.62
+
+set_technology = {
+	early_fighter = 1
+	cv_early_fighter = 1
+	infantry_weapons = 1
+	tech_support = 1		
+	tech_engineers = 1
+	gw_artillery = 1
+	interwar_antiair = 1
+	basic_naval_mines = 1
+	early_ship_hull_light = 1
+	basic_ship_hull_light = 1
+	basic_battery = 1
+	basic_torpedo = 1
+	basic_depth_charges = 1
+}
+
+set_convoys = 100
+
+set_politics = {
+	ruling_party = communism
+	last_election = "1933.7.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+set_popularities = {
+	communism = 84
+	neutrality = 16
+}
 
 #TROOPS
 #oob = "BUL_1936" #VANILLA & DLC
@@ -271,73 +300,74 @@ add_command_power = 999
 #		recruit_character = BUL_stefan_nedev
 #	}
 #
-	#TECHNOLOGY
-	set_research_slots = 4
-#
-#	#RULING PARTY
-#	set_politics = { #DLC
+#	#TECHNOLOGY
+#	set_research_slots = 4
+##
+##	#RULING PARTY
+##	set_politics = { #DLC
+##		ruling_party = neutrality
+##		last_election = "1935.1.22"
+##		election_frequency = 48
+##		elections_allowed = no
+##	}
+##
+##	else = { #VANILLA
+##		#SET UP IDEAS
+##		add_ideas = { #VANILLA
+##			limited_conscription
+##		}
+##
+#		#POLITICS
+#	set_popularities = { #VANILLA
+#		democratic = 5
+#		fascism = 35
+#		neutrality = 60
+#	}
+#	set_politics = { #VANILLA
 #		ruling_party = neutrality
-#		last_election = "1935.1.22"
+#		last_election = "1931.6.21"
 #		election_frequency = 48
 #		elections_allowed = no
 #	}
-#
-#	else = { #VANILLA
-#		#SET UP IDEAS
-#		add_ideas = { #VANILLA
-#			limited_conscription
-#		}
-#
-		#POLITICS
-	set_popularities = { #VANILLA
-		democratic = 5
-		fascism = 35
-		neutrality = 60
-	}
-	set_politics = { #VANILLA
-		ruling_party = neutrality
-		last_election = "1931.6.21"
-		election_frequency = 48
-		elections_allowed = no
-	}
-#
-#		recruit_character = BUL_boris_iii
-#		recruit_character = BUL_georgi_dimitrov
-#		recruit_character = BUL_nikola_petkov
-#		recruit_character = BUL_hristo_lukov
-#		recruit_character = BUL_georgi_popov
-#		recruit_character = BUL_vasil_boydev
-#		recruit_character = BUL_asen_nikolov
-#		recruit_character = BUL_georgi_petsov
-#		recruit_character = BUL_atanas_zhilkov
-#		recruit_character = BUL_bonyu_stoev_pironkov
-#		recruit_character = BUL_ivan_gaidimitriv
-#		recruit_character = BUL_kiril_stanchev
-#		recruit_character = BUL_blagoi_ivanov
-#		recruit_character = BUL_stoyan_stoyanov
-#		recruit_character = BUL_nikola_hadzipetkov
-#		recruit_character = BUL_kiril_dimitrov_yanchulev
-#		recruit_character = BUL_nikola_totev_markov
-#		recruit_character = BUL_georgi_ivanov_kyoseivanov
-#		recruit_character = BUL_dobri_bozhilov
-#		recruit_character = BUL_konstantin_muraviev
-#
-#	}
-#
+##
+##		recruit_character = BUL_boris_iii
+##		recruit_character = BUL_georgi_dimitrov
+##		recruit_character = BUL_nikola_petkov
+##		recruit_character = BUL_hristo_lukov
+##		recruit_character = BUL_georgi_popov
+##		recruit_character = BUL_vasil_boydev
+##		recruit_character = BUL_asen_nikolov
+##		recruit_character = BUL_georgi_petsov
+##		recruit_character = BUL_atanas_zhilkov
+##		recruit_character = BUL_bonyu_stoev_pironkov
+##		recruit_character = BUL_ivan_gaidimitriv
+##		recruit_character = BUL_kiril_stanchev
+##		recruit_character = BUL_blagoi_ivanov
+##		recruit_character = BUL_stoyan_stoyanov
+##		recruit_character = BUL_nikola_hadzipetkov
+##		recruit_character = BUL_kiril_dimitrov_yanchulev
+##		recruit_character = BUL_nikola_totev_markov
+##		recruit_character = BUL_georgi_ivanov_kyoseivanov
+##		recruit_character = BUL_dobri_bozhilov
+##		recruit_character = BUL_konstantin_muraviev
+##
+##	}
+##
+##}
+##
+#set_technology = {
+#	early_fighter = 1
+#	cv_early_fighter = 1
+#	infantry_weapons = 1
+#	tech_support = 1		
+#	tech_engineers = 1
+#	gw_artillery = 1
+#	interwar_antiair = 1
+#	basic_naval_mines = 1
+#	early_ship_hull_light = 1
+#	basic_ship_hull_light = 1
+#	basic_battery = 1
+#	basic_torpedo = 1
+#	basic_depth_charges = 1
 #}
 #
-set_technology = {
-	early_fighter = 1
-	cv_early_fighter = 1
-	infantry_weapons = 1
-	tech_support = 1		
-	tech_engineers = 1
-	gw_artillery = 1
-	interwar_antiair = 1
-	basic_naval_mines = 1
-	early_ship_hull_light = 1
-	basic_ship_hull_light = 1
-	basic_battery = 1
-	basic_torpedo = 1
-	basic_depth_charges = 1
-}

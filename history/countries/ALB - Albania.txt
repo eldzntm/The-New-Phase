@@ -31,7 +31,7 @@ set_politics = {
 	elections_allowed = no
 }
 set_popularities = {
-	democratic = 84
+	communism = 84
 	neutrality = 16
 }
 #set_technology = {

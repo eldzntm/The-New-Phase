@@ -15,5 +15,8 @@ tags={
 	"Map"
 }
 name="The New Phase"
+dependencies={
+	"Korean Language"
+}
 supported_version="1.13.6"
 remote_file_id="3115870289"

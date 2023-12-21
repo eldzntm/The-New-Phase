@@ -141,7 +141,7 @@ BRA = {
 	color_ui = rgb { 99 189 82 }
 }
 CAN = {
-	color = rgb { 233  59  59 }
+	color = rgb { 155 62 51 }
 	color_ui = rgb { 155 62 51 }
 }
 CHI = {
@@ -257,7 +257,7 @@ YUN = {
 	color_ui = rgb { 222 247 198 }
 }
 USA = {
-	color = rgb { 0 0 100 }
+	color = rgb { 40 150 200 }
 	color_ui = rgb { 13 13 113 }
 }
 MON = {
