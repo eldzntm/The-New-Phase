@@ -1,7 +1,13 @@
 version="1.0"
+replace_path="common/equipment_groups"
+replace_path="common/technologies"
+replace_path="common/technology_tags"
+replace_path="common/units"
+replace_path="common/unit_tags"
 replace_path="map"
 replace_path="map/strategicregions"
 replace_path="history/states"
+replace_path="history/units"
 tags={
 	"Alternative History"
 	"Events"
