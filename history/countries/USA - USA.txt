@@ -55,6 +55,9 @@ add_to_faction = POR
 add_to_faction = HOL
 add_to_faction = ICE
 
+recruit_character = USA_Harry_S_Truman
+recruit_character = USA_Dwight_David_Eisenhower
+
 #oob = "USA_1936"
 #
 #starting_train_buffer = 5

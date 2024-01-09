@@ -14,4 +14,14 @@ spriteTypes = {
         name = "GFX_portrait_SOV_Joseph_Stalin"
         texturefile = "gfx/leaders/SOV/Joseph_Stalin.dds"
     }
+
+    spriteType = {
+        name = "GFX_portrait_USA_Harry_S_Truman"
+        texturefile = "gfx/leaders/USA/USA_Harry_S_Truman.dds"
+    }
+
+    spriteType = {
+        name = "GFX_portrait_USA_Dwight_David_Eisenhower"
+        texturefile = "gfx/leaders/USA/USA_Dwight_David_Eisenhower.dds"
+    }
 }
