@@ -183,4 +183,5 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 12884;1961;impassable;-1;-1;-1;-1;-1;;Himalayas
 7071;12084;impassable;-1;-1;-1;-1;-1;;jinmen
 7071;7131;impassable;-1;-1;-1;-1;-1;;jinmen
+9228;6066;sea;990;-1;-1;-1;-1;;oland-fin
 -1;-1;;-1;-1;-1;-1;-1;-1

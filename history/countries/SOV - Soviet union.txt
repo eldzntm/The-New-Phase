@@ -46,6 +46,8 @@ add_to_faction = ALB
 add_to_faction = CZE
 add_to_faction = ROM
 
+recruit_character = SOV_Joseph_stalin
+
 ####
 #### NO STEP BACK
 ####

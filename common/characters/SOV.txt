@@ -1,0 +1,17 @@
+characters = {
+	SOV_Joseph_Stalin = {
+		name = SOV_Joseph_Stalin
+		portraits = {
+			civilian = {
+				large = GFX_portrait_SOV_Joseph_Stalin
+			}
+		}
+		country_leader = {
+			ideology = stalinism
+			desc = SOV_Joseph_Stalin_desc
+			traits = { stalin_heart_of_steel }
+			expire = "1953.3.5.1"
+			id = -1
+		}
+	}
+}
