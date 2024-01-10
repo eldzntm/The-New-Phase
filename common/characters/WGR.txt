@@ -1,0 +1,17 @@
+characters = {
+	WGR_Konrad_Adenauer = {
+		name = WGR_Konrad_Adenauer
+		portraits = {
+			civilian = {
+				large = GFX_portrait_WGR_Konrad_Adenauer
+			}
+		}
+		country_leader = {
+			ideology = liberalism
+			desc = WGR_Konrad_Adenauer_desc
+			traits = {}
+			expire = "2000.1.1.12"
+			id = -1
+		}
+	}
+}

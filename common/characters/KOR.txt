@@ -1,0 +1,17 @@
+characters = {
+	KOR_Syngman_Rhee = {
+		name = KOR_Syngman_Rhee
+		portraits = {
+			civilian = {
+				large = GFX_portrait_KOR_Syngman_Rhee
+			}
+		}
+		country_leader = {
+			ideology = liberalism
+			desc = KOR_Syngman_Rhee_desc
+			traits = {}
+			expire = "2000.1.1.12"
+			id = -1
+		}
+	}
+}

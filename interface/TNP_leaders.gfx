@@ -24,4 +24,14 @@ spriteTypes = {
         name = "GFX_portrait_USA_Dwight_David_Eisenhower"
         texturefile = "gfx/leaders/USA/USA_Dwight_David_Eisenhower.dds"
     }
+
+    spriteType = {
+        name = "GFX_portrait_WGR_Konrad_Adenauer"
+        texturefile = "gfx/leaders/WGR/WGR_Konrad_Adenauer.dds"
+    }
+
+    spriteType = {
+        name = "GFX_portrait_KOR_Syngman_Rhee"
+        texturefile = "gfx/leaders/KOR/KOR_Syngman_Rhee.dds"
+    }
 }

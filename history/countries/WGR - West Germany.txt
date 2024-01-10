@@ -31,6 +31,7 @@ set_politics = {
 set_popularities = {
 	democratic = 100
 }
+recruit_character = WGR_Konrad_Adenauer
 
 # Starting tech
 #set_technology = {
