@@ -15,23 +15,16 @@ state={
 			fuel_silo = 1
 			infrastructure = 2
 			air_base = 6
-			9859 = {
-				naval_base = 6
 
-			}
-
-		}
-		victory_points = {
-			6994 5 
 		}
 
 	}
 
 	provinces={
-		1063 1165 3848 6870 6873 6994 9807 9859 9865 11847 12056 
+		6873 6994 9859
 	}
 	manpower=4040279
 	buildings_max_level_factor=1.000
-	state_category=large_city
+	state_category=town
 	local_supplies=9.000
 }
