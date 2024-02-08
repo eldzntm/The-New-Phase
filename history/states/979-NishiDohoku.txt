@@ -9,11 +9,16 @@ state={
 			infrastructure = 3
 
 		}
-
+		victory_points = {
+			1063 10 
+		}
+		victory_points = {
+			13283 5 
+		}
 	}
 
 	provinces={
-		1063 3848 4067 4153 9865 
+		1063 3848 4067 4153 9865 13283
 	}
 	manpower=997461
 	state_category= town

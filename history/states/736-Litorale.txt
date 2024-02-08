@@ -5,9 +5,6 @@ state = {
 	state_category = city
 
 	history = {
-		victory_points = {
-			6626 3
-		}
 		owner = YUG
 		add_core_of = YUG
 		add_core_of = SLV
@@ -24,7 +21,7 @@ state = {
 	}
 
 	provinces = {
-		599 6626 11595 
+		599 11595 
 	}
 	manpower = 1038159 # was 1063159 before Istria was merged with Fiume (~25k pop added to new Istria state (Fiume + Pola)
 	buildings_max_level_factor = 1.000

@@ -10,11 +10,20 @@ state={
 			infrastructure = 2
 
 		}
+		victory_points = {
+			4172 10 
+		}
+		victory_points = {
+			10015 10 
+		}
+		victory_points = {
+			7217 3
+		}
 
 	}
 
 	provinces={
-		4172 7187 7217 10015 10100 
+		4172 7187 7217 10015 10100 13281 13282
 	}
 	manpower=9888222
 	state_category= city

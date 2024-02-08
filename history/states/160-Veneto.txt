@@ -19,6 +19,9 @@ state = {
 		victory_points = { #Verona
 			603 1
 		}
+		victory_points = {
+			6626 3
+		}
 
 		buildings = {
 			infrastructure = 3 #was: 6
@@ -42,7 +45,7 @@ state = {
 	}
 
 	provinces = {
-		603 628 3604 3657 6656 9582 9613 11584 
+		603 628 3604 3657 6626 6656 9582 9613 11584 
 	}
 	manpower = 3963151
 	buildings_max_level_factor = 1.000

@@ -8,6 +8,12 @@ state={
 			industrial_complex = 1
 			arms_factory = 1		}
 		add_core_of = HUN
+		victory_points = {
+			679 10
+		}
+		victory_points = {
+			9656 5
+		}
 	}
 	provinces={
 		679 699 9656 11644 11646 
