@@ -1,4 +1,4 @@
-add_namespace = TNP_SOV
+add_namespace = TNP_SOV_stalin_death
 
 country_event = {
     id = TNP_SOV_stalin_death.1
@@ -20,6 +20,8 @@ country_event = {
 		name = TNP_SOV_stalin_death.1.a
         ai_chance = { factor = 100 }
         stabilty_factor = -0.1
+        country_event = { id = TNP_SOV_stalin_death.2 }
+        
 
 	}
 }
@@ -45,6 +47,7 @@ country_event = {
         ai_chance = { factor = 100 }
         stabilty_factor = 0.05
         immediate = {}
+        country_event = { id = TNP_SOV_stalin_death.3}
 	}
 }
 
