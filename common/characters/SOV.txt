@@ -14,4 +14,18 @@ characters = {
 			id = -1
 		}
 	}
+
+	SOV_nikita_khrushchyov = {
+		name = SOV_nikita_khrushchyov
+		advisor = {
+			slot = political_advisor
+			idea_token = SOV_nikita_khrushchyov
+			allowed = {
+				original_tag = SOV
+			}
+			traits = {
+				silent_workhorse
+			}
+		}
+	}
 }

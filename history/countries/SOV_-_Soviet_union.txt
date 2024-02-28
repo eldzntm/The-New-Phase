@@ -47,6 +47,9 @@ add_to_faction = CZE
 add_to_faction = ROM
 
 recruit_character = SOV_Joseph_stalin
+recruit_character = SOV_nikita_khrushchyov
+recruit_character = SOV_mikhail_kalinin
+recruit_character = SOV_vyacheslav_molotov
 
 ####
 #### NO STEP BACK
