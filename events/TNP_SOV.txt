@@ -24,7 +24,7 @@ country_event = {
         
 
 	}
-}
+}# 테스트용 주석
 
 country_event = {
     id = TNP_SOV_stalin_death.2
